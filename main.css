@@ -1,0 +1,26 @@
+.yball {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    color: #000;
+    line-height: 50px;
+    text-align: center;
+    background: #ffce00;
+}
+.redball {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    color: #FFFFFF;
+    line-height: 50px;
+    text-align: center;
+    background: #ffce00;
+}
+strong{color: #FF0000}
+table{background: #FFFFCC}

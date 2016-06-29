@@ -1,0 +1,10 @@
+
+大樂透
+http://www.taiwanlottery.com.tw/images/twl_index_mine_logo_04.gif
+49樂合彩圖
+http://www.taiwanlottery.com.tw/images/twl_index_mine_logo_05.gif
+
+背景顏色
+#FFC
+開獎結果顏色
+#F00
