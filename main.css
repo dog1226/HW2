@@ -1,15 +1,16 @@
 .yball {
-    width:50px;
-    height:50px;
-    border-radius:50%;
-    font-size:23px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
     font-family: Arial;
     font-weight: 900;
-    color:#000;
-    line-height:50px;
-    text-align:center;
-    background:#ffce00;
+    color: #000;
+    line-height: 50px;
+    text-align: center;
+    background: #ffce00;
 }
+
 .rball {
     width: 50px;
     height: 50px;
@@ -22,16 +23,23 @@
     text-align: center;
     background: #ff0000;
 }
-td[colspan="6"]{font-weight: 900;
- font-size: 17px
+
+td[colspan="6"] {
+    font-weight: 800;
+    font-size: 17px
 }
-span{
+
+span {
     color: #ff0000;
-    font-weight: 1200;
+    font-weight: 900;
     font-size: 13px
 }
-table{background: #FFFFCC}
 
-.r1{font-weight: 1000;
-    font-size: 15px                                     
- }
+table {
+    background: #FFFFCC
+}
+
+.r1 {
+    font-weight: 800;
+    font-size: 17px
+}
