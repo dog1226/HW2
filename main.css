@@ -27,10 +27,11 @@ td[colspan="6"]{font-weight: 900;
 }
 span{
     color: #ff0000;
-    font-weight: 900;
+    font-weight: 1200;
     font-size: 13px
 }
 table{background: #FFFFCC}
 
-.r1{font-size: 15px                                     
+.r1{font-weight: 1000;
+    font-size: 15px                                     
  }
